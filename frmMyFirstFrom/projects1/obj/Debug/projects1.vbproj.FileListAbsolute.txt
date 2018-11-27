@@ -1,0 +1,11 @@
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\bin\Debug\projects1.exe.config
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\bin\Debug\projects1.exe
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\bin\Debug\projects1.pdb
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\bin\Debug\projects1.xml
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.vbprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.Form1.resources
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.Resources.resources
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.vbproj.GenerateResource.Cache
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.exe
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.xml
+c:\users\computer\documents\visual studio 2017\Projects\frmMyFirstFrom\projects1\obj\Debug\projects1.pdb
